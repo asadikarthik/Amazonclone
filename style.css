@@ -22,10 +22,12 @@
 }
 
 .logo{
-    background-image: url("navlogo.png");
+    background-image: url("amazon_logo.png");
     background-size: cover;
-    height:50px;
-    width:115px;
+    height: 50px;
+    padding-bottom: 10px;
+    width: 115px;
+    padding-left: 10px;
 }
 
 .border{
