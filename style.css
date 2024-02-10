@@ -14,8 +14,11 @@
 }
 
 .nav_logo{
-    height:50px;
-    width:150px;
+    background-image: url(amazon_logo.png);
+    background-size: cover;
+    height: 60px;
+    width: 150px;
+    padding-bottom: 12px;
 }
 
 .logo{
